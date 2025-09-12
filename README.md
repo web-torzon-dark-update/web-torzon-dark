@@ -4,11 +4,11 @@
 
 ## Accessing the TorZon Dark Web
 
-http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion
+http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion
 
-[<img src="/static/bottom.webp" width="200">](http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion)
+[<img src="/static/bottom.webp" width="200">](http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion)
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/static/thick.webp" alt="TorZon Dark Web" style="max-width: 100%;"></a>
+<a href="http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion"><img src="/static/thick.webp" alt="TorZon Dark Web" style="max-width: 100%;"></a>
 
 This resource delivers information regarding the dark web. We are an educational website; no commissions, and no promotion of illegal activities.
 
@@ -38,8 +38,8 @@ Navigating the **TorZon dark web** carries inherent risks. Always take these sec
 
 Remember, the dark web carries significant risks. Prioritize security, stay informed, and use the latest **TorZon links**. Careful navigation can make your experience safer within the **TorZon dark web**.
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/static/reset.webp" alt="TorZon Market Login" style="max-width: 100%;"></a>
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/static/wide.webp" alt="TorZon Market Register" style="max-width: 100%;"></a>
+<a href="http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion"><img src="/static/reset.webp" alt="TorZon Market Login" style="max-width: 100%;"></a>
+<a href="http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion"><img src="/static/wide.webp" alt="TorZon Market Register" style="max-width: 100%;"></a>
 
 ---
 
@@ -51,4 +51,6 @@ This guide is for educational purposes only. The information provided here aims 
 
 
 
-Update:  23.08.2025
+
+
+Update:  12.09.2025 url is up and running again
