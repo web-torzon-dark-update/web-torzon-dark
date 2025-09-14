@@ -53,4 +53,6 @@ This guide is for educational purposes only. The information provided here aims 
 
 
 
-Update:  12.09.2025 url is up and running again
+
+
+Update:  09/14/2025 url is now functioning and operational
