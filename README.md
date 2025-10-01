@@ -57,4 +57,6 @@ This guide is for educational purposes only. The information provided here aims 
 
 
 
-Update:  18.09.2025
+
+
+Update:  01 October 2025
